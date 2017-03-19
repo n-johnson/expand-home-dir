@@ -4,7 +4,7 @@
   "description": "Expand ~/",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava --verbose"
   },
   "devDependencies": {
     "ava": "^0.18.2"
