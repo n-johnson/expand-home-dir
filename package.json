@@ -4,10 +4,10 @@
   "description": "Expand ~/",
   "main": "index.js",
   "scripts": {
-    "test": "prova"
+    "test": "ava"
   },
   "devDependencies": {
-    "prova": "*"
+    "ava": "^0.18.2"
   },
   "keywords": [
     "home",
